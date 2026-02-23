@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Amirabbas (AmuAmirabbas)
 
 ### 👨‍💻 About Me
-من یک مسیر هیجان‌انگیز رو در دنیای کامپیوتر شروع کردم. در حال حاضر تمرکزم روی یادگیری عمیق برنامه‌نویسی و گذروندن دوره‌های تخصصی هست. 
 I am a passionate learner in the world of Computer Science, currently focusing on mastering programming fundamentals and building cool projects.
 
 - 🌱 **Currently Learning:** Python & Software Development.
