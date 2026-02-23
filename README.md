@@ -22,4 +22,6 @@ A modern YouTube downloader built with Python - my first public professional pro
 ---
 
 ### 📫 Connect with me
-[<img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:amirabbas.palani1384@gmail.com)
+My ID is the same across most platforms: `@AmuAmirabbas`
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AmuAmirabbas)
