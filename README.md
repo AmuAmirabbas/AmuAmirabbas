@@ -10,7 +10,7 @@ I am a passionate learner in the world of Computer Science, currently focusing o
 ---
 
 ### 🏆 Featured Project
-**[AmuTube Pro](https://github.com/AmuAmirabbas/AmuTube)** یک دانلودر مدرن یوتیوب که با پایتون ساختم. این اولین پروژه جدی منه که پابلیک شده!
+**[AmuTube Pro](https://github.com/AmuAmirabbas/AmuTube)**
 A modern YouTube downloader built with Python - my first public professional project.
 
 ---
